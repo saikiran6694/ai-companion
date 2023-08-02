@@ -1,6 +1,6 @@
 # ai-companion
 
-<h2>Tchnologies Used</h2>
+<h2>Technologies Used</h2>
 <ul>
   <li>NextJS</li>
   <li>React</li>
